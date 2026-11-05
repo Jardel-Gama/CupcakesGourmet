@@ -10,7 +10,7 @@ As melhorias incluem identidade visual, logomarca, catálogo de cupcakes, aument
 
 ## Apresentação em vídeo
 
-[▶️ Assistir à apresentação do Projeto Integrador II no YouTube](https://youtu.be/aDLFOCc4cUQ)
+[▶️ Assistir à apresentação do Projeto Integrador II no YouTube](https://youtu.be/fM1A3IC5nn4)
 
 ## Código-fonte
 
